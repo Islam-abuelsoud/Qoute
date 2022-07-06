@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgba(128, 128, 128, 0.411);
+}
+
+h1
+{
+    font-size: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.btn
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: 50px;
+}
